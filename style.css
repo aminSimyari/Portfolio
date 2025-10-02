@@ -157,3 +157,15 @@ nav a:hover {
   margin-bottom: 15px;
   color: #555;
 }
+
+.project a {
+  display: inline-block;
+  text-decoration: none;
+  color: #24292e;
+  padding: 8px 14px;
+  border-radius: 6px;
+}
+
+.project a:hover {
+  background: #528aae;
+}
