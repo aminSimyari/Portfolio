@@ -9,6 +9,7 @@ body {
   background: #8e8e9d;
   color: #333;
   line-height: 1.6;
+  min-height: 100vh;
 }
 
 nav {
