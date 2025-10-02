@@ -56,3 +56,12 @@ nav a.active {
 nav a:hover {
   color: #1abc9c;
 }
+
+.home img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  object-fit: cover;
+  border: 3px solid #0077ff;
+}
