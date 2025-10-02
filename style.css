@@ -73,7 +73,7 @@ nav a:hover {
 
 .home p {
   font-size: 1.1rem;
-  color: #666;
+  color: #272525;
 }
 
 .social-links {
@@ -83,7 +83,16 @@ nav a:hover {
 .social-links a {
   display: inline-block;
   margin: 0 10px;
-  color: #073f80;
+  color: #0077b5;
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+#git-hub {
+  display: inline-block;
+  margin: 0 10px;
+  color: #24292e;
   font-weight: bold;
   text-decoration: none;
   transition: color 0.3s;
