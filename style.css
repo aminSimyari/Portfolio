@@ -201,3 +201,12 @@ form button {
 form button:hover {
   background: #0055cc;
 }
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #2c3e50;
+  color: #fff;
+  margin-top: 40px;
+}
