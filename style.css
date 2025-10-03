@@ -186,3 +186,14 @@ form textarea {
   border-radius: 6px;
   font-size: 1rem;
 }
+
+form button {
+  background: #528aae;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background 0.3s;
+}
