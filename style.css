@@ -104,7 +104,7 @@ nav a:hover {
   color: #fff;
 }
 
-/* ---------- Skills Page ---------- */
+/*Skills Page*/
 .skill {
   margin: 20px;
   text-align: left;
@@ -168,4 +168,13 @@ nav a:hover {
 
 .project a:hover {
   background: #528aae;
+}
+
+/* Contact Page */
+form {
+  max-width: 500px;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }
